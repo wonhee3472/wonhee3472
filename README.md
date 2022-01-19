@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Wonhee Yun
+- 👋 Hi, I’m Jason Yun
 - 👀 My hobby is to play golf and play with cats
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to switch a job soon
+- 💞️ I’m looking to get a new job soon
 - 📫 Please reach out to me via wonhee3472@gmail.com

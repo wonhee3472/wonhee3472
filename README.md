@@ -6,5 +6,5 @@ I'm a data analytics student who is passionate about writing code and solving pr
 
 - 🔭 I’m currently a data analytics student at Washington Unversity in St. Louis.
 - 📚 I’m currently learning about big data and the challenges associated with it.
-- 👯 I’m looking for a data engineer internship position. 
+- 👯 I’m looking for a data analyst/engineer entry-level/internship position. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jason-o-yun-302a86a3/) [Gmail](mailto:wonhee3472@gmail.com)
